@@ -16,7 +16,7 @@ This lab focuses on incident response using Catalyst. The objective was to inves
 ## Screenshots
 
 ### Incident Created
-![Incident](incident-created 1.png)
+![Incident](incident-created1.png)
 
 ### VirusTotal Analysis
 ![VirusTotal](virustotal-result.png)
