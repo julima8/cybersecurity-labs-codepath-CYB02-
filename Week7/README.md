@@ -8,3 +8,7 @@ This lab focuses on incident response using Catalyst. The objective was to inves
 - Malware analysis using VirusTotal
 - IP analysis using AbuseIPDB
 - Incident documentation and closure
+
+## Deliverables
+- Incident Report (Phishing)
+- Lessons Learned Analysis
