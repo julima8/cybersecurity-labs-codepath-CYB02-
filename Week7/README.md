@@ -12,3 +12,15 @@ This lab focuses on incident response using Catalyst. The objective was to inves
 ## Deliverables
 - Incident Report (Phishing)
 - Lessons Learned Analysis
+
+## Screenshots
+
+### Incident Created
+![Incident](incident-created 1.png)
+![Incident](incident-created 2.png)
+
+### VirusTotal Analysis
+![VirusTotal](virustotal-result.png)
+
+### AbuseIPDB Analysis
+![AbuseIPDB](abuseipdb-result.png)
